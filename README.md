@@ -6,9 +6,10 @@ Hi, I'm *Hitarth Kansara*
 🚀Passionate about building projects and contributing to open-source  
  Love learning new tech & solving problems through code  
 
-##  Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/hitarth-kansara-078b82366)](https://www.linkedin.com/in/hitarth-kansara-078b82366)   
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](hitarthkansara1912@gmail.com)  
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hitarth-kansara-078b82366)   
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:hitarthkansara2005@gmail.com)  
+
 
 ---
 
