@@ -16,7 +16,7 @@ Hi, I'm *Hitarth Kansara*
 ##  Tech Stack:
 - *Languages:* Python  | SQL | C++  
 - *Frontend:* HTML5 | CSS3 | Bootstrap 
-- *Backend:* ASP.NET | Node.js (basics)  
+- *Backend:* ASP.NET  
 - *Database:* MySQL | SQL Server  
 - *Tools & Platforms:* Git | GitHub | VS Code | Jupyter Notebook  
 
